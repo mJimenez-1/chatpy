@@ -1,0 +1,22 @@
+{
+    "pedidos": [
+        {
+            "cliente": "Fior",
+            "nfactura": "78521",
+            "numeropedido": 7854,
+            "estado": "enviado"
+        },
+        {
+            "cliente": "Jose",
+            "nfactura": "789654",
+            "numeropedido": 8569,
+            "estado": "pendiente"
+        },
+        {
+            "cliente": "Juan",
+            "nfactura": "123456",
+            "numeropedido": 1236,
+            "estado": "pendiente"
+        }
+    ]
+}
